@@ -1,3 +1,4 @@
+# Log Analysis
 This project is an internal reporting tool which takes log data of a database and calculates statistics from it. 
 
 ## Getting Started
