@@ -23,7 +23,7 @@ First of all, you have to install the following programms:
 
 ### Run
 
-1. Laod the data into localdatabase with the command: `psql -d news -f newsdata.sql`
+1. Load the data into local database with the command: `psql -d news -f newsdata.sql`
 2. Run the program with: `python log.py`
 
 ### Output
